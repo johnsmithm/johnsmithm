@@ -1,18 +1,18 @@
-## Ion Mosnoi - Software Engineer & Data Scientist 
+## Ion Mosnoi - Machine Learning Engineer 
 
 - :notebook: Work experience in ML & SE: 8+ years
-- :mortar_board: MSc in Data Science at [Nice](https://www.hse.ru/ma/datasci/)
-- :mortar_board: MSc in Data Science at [AALTO](https://www.hse.ru/ma/datasci/)
+- :mortar_board: MSc in Data Science at [University of Nice Sophia Antipolis](https://en.wikipedia.org/wiki/University_of_Nice_Sophia_Antipolis)
+- :mortar_board: MSc in Data Science at [AALTO University from Finland](https://www.aalto.fi/en)
 - :computer: Personal website [ionmosnoi.com](https://ionmosnoi.com)
 - :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](smartaitomation.com/)
 
 ### Recent projects
 
-- Developed hand gesture recognizers for interactive mirror app using Google Mediapipe
-- Developed Supervised and Unsupervised models for UK Legislation Classification and processing
-- Developed models for Stream Highlights detection
-- Created Unit sale prediction models for the USA food retailer
-- Managed Iphone AR app development for virtual try on
+- Developed handwiting recognition models for back cheque data extraction
+- Developed Supervised and Unsupervised models for multi language document processing
+- Developed models for user segmentation in mediacal apps
+- Created Open-source name entity recognition annotation tools for jupyter
+- Developed active learning models for named entity recognition
 
 ### Connect with me
 
