@@ -8,9 +8,9 @@
 
 ### Recent projects
 
-- Developed handwiting recognition models for back cheque data extraction
-- Developed Supervised and Unsupervised models for multi language document processing
-- Developed models for user segmentation in mediacal apps
+- Developed handwriting recognition models for back cheque data extraction
+- Developed Supervised and Unsupervised models for multi languages document processing
+- Developed models for user segmentation in medical apps
 - Created Open-source name entity recognition annotation tools for jupyter
 - Developed active learning models for named entity recognition
 
