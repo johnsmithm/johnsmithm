@@ -4,7 +4,7 @@
 - :mortar_board: MSc in Data Science at [University of Nice Sophia Antipolis](https://en.wikipedia.org/wiki/University_of_Nice_Sophia_Antipolis)
 - :mortar_board: MSc in Data Science at [AALTO University from Finland](https://www.aalto.fi/en)
 - :computer: Personal website [ionmosnoi.com](https://ionmosnoi.com)
-- :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](smartaitomation.com/)
+- :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](https://smartaitomation.com/)
 
 ### Recent projects
 
