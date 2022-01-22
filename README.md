@@ -4,13 +4,13 @@
 - :mortar_board: MSc in Data Science at [University of Nice Sophia Antipolis](https://en.wikipedia.org/wiki/University_of_Nice_Sophia_Antipolis)
 - :mortar_board: MSc in Data Science at [AALTO University from Finland](https://www.aalto.fi/en)
 - :computer: Personal website [ionmosnoi.com](https://ionmosnoi.com)
-- :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](smartaitomation.com/)
+- :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](https://smartaitomation.com/)
 
 ### Recent projects
 
 - Developed handwiting recognition models for back cheque data extraction
 - Developed Supervised and Unsupervised models for multi language document processing
-- Developed models for user segmentation in mediacal apps
+- Developed models for user segmentation in medical apps
 - Created Open-source name entity recognition annotation tools for jupyter
 - Developed active learning models for named entity recognition
 
@@ -31,6 +31,29 @@
 
 <br />
 
+[linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
+[devdotto]: https://img.shields.io/static/v1?label=&message=Blog&color=3B3B7A&logo=devdotto
+[telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
+[twitter]: https://img.shields.io/static/v1?label=&message=Twitter&&color=3B3B7A&logo=twitter
+[youtube]: https://img.shields.io/static/v1?label=&message=YouTube&&color=3B3B7A&logo=youtube
+[views]: https://komarev.com/ghpvc/?username=johnsmithm&color=3B3B7A
+[stats]: https://github-readme-stats.vercel.app/api?username=johnsmithm&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs?username=johnsmithm&layout=compact&theme=synthwave
 
-[linkedin]: https://www.linkedin.com/in/ion-mosnoi
+<br />
+
+[![twitter]](https://twitter.com/ionmosnoi)
+[![youtube]](https://www.youtube.com/channel/UCqionmosnoiqCesQ)
+[![linkedin]](https://www.linkedin.com/in/ionmosnoi/)
+[![devdotto]](https://dev.to/ionmosnoi/)
+[![telegram]](https://t.me/ionmosnoi/)
+[![views]](https://github.com/antonkomarev/github-profile-views-counter)
+  
+[![stats]](https://github.com/anuraghazra/github-readme-stats)
+
+[![languages]](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+[linkedin]: https://www.linkedin.com/in/ionmosnoi
 
