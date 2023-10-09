@@ -3,11 +3,15 @@
 - :notebook: Work experience in ML & SE: 8+ years
 - :mortar_board: MSc in Data Science at [University of Nice Sophia Antipolis](https://en.wikipedia.org/wiki/University_of_Nice_Sophia_Antipolis)
 - :mortar_board: MSc in Data Science at [AALTO University from Finland](https://www.aalto.fi/en)
-- :computer: Personal website [ionmosnoi.com](https://ionmosnoi.com)
-- :fire: Building ML powered Apps for the enterprise clients [smartaitomation.com](https://smartaitomation.com/)
+- :computer: Personal website [ionmosnoi.com](https://beacons.ai/ion.mosnoi)
+- :fire: Building GPT powered Apps for the business clients [mlheap.com](https://mleap.com/)
 
 ### Recent projects
 
+- Generate newsletter from news articles
+- Generate romantic stories from user feedback
+- Generate 1k exam questions per hours using gpt4 and langchain
+- Discuss with pdf and excel files
 - Developed handwiting recognition models for back cheque data extraction
 - Developed Supervised and Unsupervised models for multi language document processing
 - Developed models for user segmentation in medical apps
